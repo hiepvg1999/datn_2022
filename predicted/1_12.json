@@ -1,0 +1,202 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                5,
+                29,
+                698,
+                45
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Bệnh đái tháo đường không phụ thuộc insuline,U lành của Tuyến tiền liệt Bướu giáp đa nhân - không độc Bệnh đái tháo"
+        },
+        {
+            "bbox": [
+                6,
+                81,
+                369,
+                99
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh đái tháo đường không phụ thuộc insuline"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                521,
+                128,
+                707,
+                144
+            ],
+            "pred": "usage",
+            "text": "Uống 2 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                145,
+                605,
+                158
+            ],
+            "pred": "usage",
+            "text": "sau ăn trưa - tối"
+        },
+        {
+            "bbox": [
+                520,
+                161,
+                707,
+                181
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                181,
+                574,
+                194
+            ],
+            "pred": "usage",
+            "text": "chiều 14h"
+        },
+        {
+            "bbox": [
+                521,
+                199,
+                707,
+                217
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                518,
+                216,
+                572,
+                233
+            ],
+            "pred": "usage",
+            "text": "sau ăn tối"
+        },
+        {
+            "bbox": [
+                521,
+                236,
+                707,
+                252
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 2 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                252,
+                643,
+                267
+            ],
+            "pred": "usage",
+            "text": "trước ăn sáng 30 phtus"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                490,
+                129,
+                505,
+                142
+            ],
+            "pred": "quantity",
+            "text": "60"
+        },
+        {
+            "bbox": [
+                489,
+                166,
+                505,
+                178
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                202,
+                505,
+                213
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                490,
+                237,
+                505,
+                250
+            ],
+            "pred": "quantity",
+            "text": "60"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                41,
+                130,
+                403,
+                148
+            ],
+            "pred": "drugname",
+            "text": "Metformin (Glucophage XR 750mg(Metformin) ) 750mg"
+        },
+        {
+            "bbox": [
+                41,
+                167,
+                370,
+                184
+            ],
+            "pred": "drugname",
+            "text": "Metoprolol (Betaloc Zok 25 mg (Metoprolol) 25mg"
+        },
+        {
+            "bbox": [
+                41,
+                203,
+                357,
+                220
+            ],
+            "pred": "drugname",
+            "text": "Fenofibrat(Lipanthyl 200mg(Fenofibrat) 200mg"
+        },
+        {
+            "bbox": [
+                41,
+                237,
+                349,
+                255
+            ],
+            "pred": "drugname",
+            "text": "Gliclazide (Diamicron MR 30(Gliclazide) ) 30mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                486,
+                347,
+                709,
+                362
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

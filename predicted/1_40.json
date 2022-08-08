@@ -1,0 +1,292 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                68,
+                48,
+                478,
+                64
+            ],
+            "pred": "diagnose",
+            "text": "mạn, Bệnh viêm gan khác, Gút (thống phong), - (E11,I10,I25,E78.2,M10,K75)"
+        },
+        {
+            "bbox": [
+                6,
+                67,
+                369,
+                84
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh đái tháo đường không phụ thuộc insuline"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                521,
+                112,
+                707,
+                132
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                517,
+                129,
+                547,
+                149
+            ],
+            "pred": "usage",
+            "text": "sáng"
+        },
+        {
+            "bbox": [
+                521,
+                150,
+                706,
+                166
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                167,
+                571,
+                180
+            ],
+            "pred": "usage",
+            "text": "sau ăn tối"
+        },
+        {
+            "bbox": [
+                520,
+                185,
+                706,
+                203
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                518,
+                204,
+                546,
+                221
+            ],
+            "pred": "usage",
+            "text": "sáng"
+        },
+        {
+            "bbox": [
+                521,
+                222,
+                707,
+                238
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                519,
+                240,
+                546,
+                255
+            ],
+            "pred": "usage",
+            "text": "sáng"
+        },
+        {
+            "bbox": [
+                521,
+                264,
+                709,
+                281
+            ],
+            "pred": "usage",
+            "text": "Uống Sáng Chiều 2 lần/1 ngày mỗi"
+        },
+        {
+            "bbox": [
+                519,
+                281,
+                576,
+                294
+            ],
+            "pred": "usage",
+            "text": "lần 1 Viên"
+        },
+        {
+            "bbox": [
+                521,
+                299,
+                706,
+                316
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                519,
+                316,
+                572,
+                330
+            ],
+            "pred": "usage",
+            "text": "sau ăn tối"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                489,
+                115,
+                505,
+                128
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                152,
+                505,
+                164
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                188,
+                505,
+                199
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                223,
+                505,
+                236
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                490,
+                266,
+                505,
+                277
+            ],
+            "pred": "quantity",
+            "text": "60"
+        },
+        {
+            "bbox": [
+                489,
+                302,
+                505,
+                313
+            ],
+            "pred": "quantity",
+            "text": "30"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                41,
+                118,
+                422,
+                136
+            ],
+            "pred": "drugname",
+            "text": "Gliclazide (DIAMICRON MR tab 60mg(Gliclazide)) 60mg"
+        },
+        {
+            "bbox": [
+                41,
+                153,
+                401,
+                172
+            ],
+            "pred": "drugname",
+            "text": "Metformin (Glucophage XR 750mg Metformin) ) 750mg"
+        },
+        {
+            "bbox": [
+                42,
+                190,
+                393,
+                207
+            ],
+            "pred": "drugname",
+            "text": "Bisoprolol (Concor Cor Tab 2,5mg(Bisoprolol) ) 2,5 mg"
+        },
+        {
+            "bbox": [
+                41,
+                223,
+                343,
+                242
+            ],
+            "pred": "drugname",
+            "text": "Valsartan Hydroclorothiazid (Co-Diovan 80/12.5"
+        },
+        {
+            "bbox": [
+                41,
+                243,
+                368,
+                261
+            ],
+            "pred": "drugname",
+            "text": "mg(Valsartan+Hydroclorothiazid) ) 80mg + 12,5mg"
+        },
+        {
+            "bbox": [
+                42,
+                268,
+                407,
+                284
+            ],
+            "pred": "drugname",
+            "text": "Trimetazidine (Vastarel MR 35mg (Trimetazidine) ) 55mg"
+        },
+        {
+            "bbox": [
+                41,
+                304,
+                351,
+                320
+            ],
+            "pred": "drugname",
+            "text": "Rosuvastatin( Zyrova 10mg (Rosuvastatin)) 10mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                488,
+                412,
+                709,
+                428
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

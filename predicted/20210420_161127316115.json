@@ -1,0 +1,172 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                155,
+                421,
+                177
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                74,
+                269,
+                593,
+                293
+            ],
+            "pred": "drugname",
+            "text": "1) BISOPROLOL PLUS HCT 2,5/6,25 2,5mg + 662\"mg"
+        },
+        {
+            "bbox": [
+                76,
+                346,
+                379,
+                372
+            ],
+            "pred": "drugname",
+            "text": "2) STACETAM 800MG 800mg"
+        },
+        {
+            "bbox": [
+                69,
+                395,
+                387,
+                420
+            ],
+            "pred": "drugname",
+            "text": "33 SAVIETORICOXIB 30 30mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                271,
+                737,
+                290
+            ],
+            "pred": "quantity",
+            "text": "SL:14 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                347,
+                737,
+                368
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                400,
+                737,
+                419
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                319,
+                190,
+                344
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                324,
+                405,
+                342
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                370,
+                191,
+                397
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                373,
+                637,
+                391
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                376,
+                407,
+                395
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                423,
+                191,
+                448
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                543,
+                425,
+                636,
+                444
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                427,
+                407,
+                447
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                541,
+                652,
+                560
+            ],
+            "pred": "date",
+            "text": "Ngày 17/12/2018"
+        }
+    ]
+}

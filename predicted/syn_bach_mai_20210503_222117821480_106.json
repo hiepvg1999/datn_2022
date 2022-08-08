@@ -1,0 +1,20 @@
+{
+    "pills": [
+        {
+            "usage": "Sáng 1 Viên",
+            "name": "1. Colchicin 1mg",
+            "quantity": "10 Viên "
+        },
+        {
+            "usage": "Sáng 1 Viên",
+            "name": "2.MMlurit 300mg",
+            "quantity": "10 Viên "
+        },
+        {
+            "usage": "Chiều 1 Viên Sáng 1 V",
+            "name": "3.Panactol 500mg",
+            "quantity": "10 Viên "
+        }
+    ],
+    "diagnose": " M10 - Gút (thống phong)"
+}

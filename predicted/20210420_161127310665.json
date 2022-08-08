@@ -1,0 +1,152 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                158,
+                757,
+                180
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: N39.0 - Nhiễm khuẩn đường tiết niệu, không xác định vị trí; (N40) Táng sản tuyến tiền liệt"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                97,
+                268,
+                243,
+                294
+            ],
+            "pred": "drugname",
+            "text": "1) TADIMAX"
+        },
+        {
+            "bbox": [
+                113,
+                299,
+                626,
+                324
+            ],
+            "pred": "drugname",
+            "text": "2000mg+666mg+666mg+666mg+83mg+830mg+500mg"
+        },
+        {
+            "bbox": [
+                113,
+                325,
+                186,
+                350
+            ],
+            "pred": "drugname",
+            "text": "+8,3mg"
+        },
+        {
+            "bbox": [
+                76,
+                376,
+                405,
+                400
+            ],
+            "pred": "drugname",
+            "text": "2) METRONIDAZOL 250 250mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                273,
+                737,
+                294
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                377,
+                737,
+                396
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                348,
+                182,
+                371
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                543,
+                350,
+                636,
+                369
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                352,
+                407,
+                372
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                401,
+                189,
+                424
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                403,
+                637,
+                421
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                405,
+                407,
+                425
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                517,
+                652,
+                538
+            ],
+            "pred": "date",
+            "text": "Ngày 10/11/2020"
+        }
+    ]
+}

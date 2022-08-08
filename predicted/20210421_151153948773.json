@@ -1,0 +1,102 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                57,
+                141,
+                349,
+                164
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: D26 - U lành khác của tử cung"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                254,
+                223,
+                279
+            ],
+            "pred": "drugname",
+            "text": "1) TADIMAX"
+        },
+        {
+            "bbox": [
+                113,
+                282,
+                626,
+                306
+            ],
+            "pred": "drugname",
+            "text": "2000mg+666mg+666mg+666mg+83mg+830mg+500mg"
+        },
+        {
+            "bbox": [
+                112,
+                308,
+                184,
+                332
+            ],
+            "pred": "drugname",
+            "text": "+8,3mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                257,
+                737,
+                276
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                330,
+                190,
+                356
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                333,
+                637,
+                351
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                335,
+                407,
+                355
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                448,
+                649,
+                467
+            ],
+            "pred": "date",
+            "text": "Ngày 04/01/2021"
+        }
+    ]
+}

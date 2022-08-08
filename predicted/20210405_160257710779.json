@@ -1,0 +1,170 @@
+{
+    "quantity": [
+        {
+            "bbox": [
+                2293,
+                0,
+                2797,
+                69
+            ],
+            "pred": "quantity",
+            "text": "Ma y te: 4638595"
+        },
+        {
+            "bbox": [
+                1705,
+                298,
+                1949,
+                380
+            ],
+            "pred": "quantity",
+            "text": "Tuổi: 65"
+        },
+        {
+            "bbox": [
+                2093,
+                311,
+                2456,
+                414
+            ],
+            "pred": "quantity",
+            "text": "Cân nặng: kg"
+        },
+        {
+            "bbox": [
+                2543,
+                316,
+                2682,
+                409
+            ],
+            "pred": "quantity",
+            "text": "Nam"
+        },
+        {
+            "bbox": [
+                2733,
+                316,
+                2840,
+                423
+            ],
+            "pred": "quantity",
+            "text": "Nữ"
+        },
+        {
+            "bbox": [
+                2442,
+                975,
+                2849,
+                1071
+            ],
+            "pred": "quantity",
+            "text": "SL: 08 viên"
+        },
+        {
+            "bbox": [
+                143,
+                1047,
+                1733,
+                1177
+            ],
+            "pred": "quantity",
+            "text": "Cách dùng: Uống trước khi ăn : SÁNG 1/2 viên"
+        },
+        {
+            "bbox": [
+                2442,
+                1188,
+                2861,
+                1281
+            ],
+            "pred": "quantity",
+            "text": "SL: 16 Viên"
+        },
+        {
+            "bbox": [
+                151,
+                1285,
+                1688,
+                1386
+            ],
+            "pred": "quantity",
+            "text": "Cách dùng: Uống trước khi ăn : SÁNG 1 Viên"
+        },
+        {
+            "bbox": [
+                1901,
+                1590,
+                2596,
+                1674
+            ],
+            "pred": "quantity",
+            "text": "Bác sỹ/Y sỹ khám bệnh"
+        },
+        {
+            "bbox": [
+                1970,
+                1703,
+                2527,
+                1794
+            ],
+            "pred": "quantity",
+            "text": "(Ký, ghi rõ họ tên)"
+        },
+        {
+            "bbox": [
+                1971,
+                2154,
+                2526,
+                2230
+            ],
+            "pred": "quantity",
+            "text": "BS. Trần Manh Hà"
+        }
+    ],
+    "diagnose": [
+        {
+            "bbox": [
+                131,
+                578,
+                2040,
+                686
+            ],
+            "pred": "diagnose",
+            "text": "Chần đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                137,
+                954,
+                1235,
+                1065
+            ],
+            "pred": "drugname",
+            "text": "1) STACLAZIDE 60 MR 60mg"
+        },
+        {
+            "bbox": [
+                137,
+                1172,
+                1229,
+                1279
+            ],
+            "pred": "drugname",
+            "text": "2) SAVI LOSARTAN 50 50mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                1833,
+                1499,
+                2658,
+                1581
+            ],
+            "pred": "date",
+            "text": "Ngày 09 tháng 10 năm 2020"
+        }
+    ]
+}

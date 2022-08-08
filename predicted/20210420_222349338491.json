@@ -1,0 +1,152 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                158,
+                730,
+                180
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (G45) Cơn thiếu máu nào thoáng qua và hội"
+        },
+        {
+            "bbox": [
+                58,
+                180,
+                169,
+                200
+            ],
+            "pred": "diagnose",
+            "text": "chứng liên quan"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                272,
+                378,
+                298
+            ],
+            "pred": "drugname",
+            "text": "1) SAVI LOSARTAN 50 50mg"
+        },
+        {
+            "bbox": [
+                76,
+                323,
+                230,
+                345
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                351,
+                626,
+                376
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                377,
+                329,
+                401
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                273,
+                737,
+                294
+            ],
+            "pred": "quantity",
+            "text": "SL:35 Viên"
+        },
+        {
+            "bbox": [
+                623,
+                323,
+                734,
+                346
+            ],
+            "pred": "quantity",
+            "text": "SL: 20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                297,
+                191,
+                323
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                301,
+                407,
+                322
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                400,
+                182,
+                423
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                544,
+                403,
+                635,
+                419
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                404,
+                407,
+                423
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                516,
+                652,
+                538
+            ],
+            "pred": "date",
+            "text": "Ngày 20/01/2020"
+        }
+    ]
+}

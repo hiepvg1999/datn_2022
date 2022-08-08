@@ -1,0 +1,212 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                189,
+                345,
+                210
+            ],
+            "pred": "diagnose",
+            "text": "tiểu (Bằng máy tự động); Điện tim thường"
+        },
+        {
+            "bbox": [
+                52,
+                208,
+                723,
+                230
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (G45) Cơn thiếu máu nào thoáng qua và hội"
+        },
+        {
+            "bbox": [
+                58,
+                227,
+                742,
+                250
+            ],
+            "pred": "diagnose",
+            "text": "chứng liên quan: (E11) TD Bệnh đái tháo đường không phụ thuộc insulin: (E78) Rối loạn chuyển hoá"
+        },
+        {
+            "bbox": [
+                56,
+                246,
+                641,
+                270
+            ],
+            "pred": "diagnose",
+            "text": "lipoprotein và tình trạng tăng lipid máu khác; (I25) Bệnh tim do thiếu máu cục bộ mạn"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                75,
+                317,
+                387,
+                342
+            ],
+            "pred": "drugname",
+            "text": "1) EBITAC 12.5 10mg + 12,5mg"
+        },
+        {
+            "bbox": [
+                76,
+                376,
+                230,
+                398
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                401,
+                626,
+                425
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg685mg"
+        },
+        {
+            "bbox": [
+                113,
+                426,
+                330,
+                452
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        },
+        {
+            "bbox": [
+                76,
+                477,
+                437,
+                501
+            ],
+            "pred": "drugname",
+            "text": "3 ) SAVI TRIMETAZIDINE 20 20mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                626,
+                323,
+                737,
+                344
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                376,
+                737,
+                395
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                478,
+                737,
+                498
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                347,
+                190,
+                371
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                351,
+                406,
+                371
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                449,
+                191,
+                475
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                451,
+                636,
+                470
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                454,
+                406,
+                472
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                501,
+                184,
+                526
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                320,
+                505,
+                407,
+                526
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                514,
+                619,
+                652,
+                639
+            ],
+            "pred": "date",
+            "text": "Ngày 15/07/2020"
+        }
+    ]
+}

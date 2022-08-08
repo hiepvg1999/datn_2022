@@ -1,0 +1,162 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                87,
+                248,
+                1143,
+                291
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: T17 - Dị vật trong đường hô hấp ; (J06.0) Viêm họng - thanh quản"
+        },
+        {
+            "bbox": [
+                87,
+                285,
+                795,
+                329
+            ],
+            "pred": "diagnose",
+            "text": "cấp; (R11) Buồn nôn và nôn; (L28.2) Sẩn ngứa khác"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                90,
+                380,
+                617,
+                420
+            ],
+            "pred": "drugname",
+            "text": "1) Amoxicilin (Hagimox 250) 250mg"
+        },
+        {
+            "bbox": [
+                86,
+                505,
+                837,
+                543
+            ],
+            "pred": "drugname",
+            "text": "2 ) Paracetamol (acetaminophen) (Agimol 325) 325mg"
+        },
+        {
+            "bbox": [
+                87,
+                633,
+                631,
+                673
+            ],
+            "pred": "drugname",
+            "text": "3.) Simethicon (Espumisan L) 1200mg"
+        },
+        {
+            "bbox": [
+                88,
+                760,
+                668,
+                797
+            ],
+            "pred": "drugname",
+            "text": "4) Betamethason (Betamethason) 0,064%"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                333,
+                445,
+                773,
+                483
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 1 Gói CHIỀU 1 Gói"
+        },
+        {
+            "bbox": [
+                332,
+                573,
+                772,
+                612
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 1 Gói CHIỀU 1 Gói"
+        },
+        {
+            "bbox": [
+                330,
+                697,
+                419,
+                743
+            ],
+            "pred": "usage",
+            "text": "Uống :"
+        },
+        {
+            "bbox": [
+                331,
+                836,
+                489,
+                864
+            ],
+            "pred": "usage",
+            "text": "Dùng ngoài:"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                449,
+                233,
+                478
+            ],
+            "pred": "quantity",
+            "text": "SL:10 Gói"
+        },
+        {
+            "bbox": [
+                93,
+                577,
+                233,
+                606
+            ],
+            "pred": "quantity",
+            "text": "SL:10 Gói"
+        },
+        {
+            "bbox": [
+                93,
+                705,
+                246,
+                734
+            ],
+            "pred": "quantity",
+            "text": "SL: 01 Chai"
+        },
+        {
+            "bbox": [
+                93,
+                833,
+                308,
+                869
+            ],
+            "pred": "quantity",
+            "text": "SL:01 Tuýp 30g"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                696,
+                940,
+                1076,
+                978
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

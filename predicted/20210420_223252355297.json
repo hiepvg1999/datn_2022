@@ -1,0 +1,82 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                161,
+                421,
+                183
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                277,
+                248,
+                301
+            ],
+            "pred": "drugname",
+            "text": "1) BLOZA 50mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                277,
+                737,
+                297
+            ],
+            "pred": "quantity",
+            "text": "SL:58 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                300,
+                192,
+                328
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                656,
+                303,
+                731,
+                321
+            ],
+            "pred": "usage",
+            "text": "Tối 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                306,
+                407,
+                325
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                418,
+                652,
+                438
+            ],
+            "pred": "date",
+            "text": "Ngày 29/07/2019"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "date": [
+        {
+            "bbox": [
+                656,
+                0,
+                718,
+                10
+            ],
+            "pred": "date",
+            "text": "4/05/248"
+        },
+        {
+            "bbox": [
+                515,
+                576,
+                649,
+                595
+            ],
+            "pred": "date",
+            "text": "Ngày 02/04/2021"
+        }
+    ],
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                164,
+                746,
+                186
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Bệnh lý tăng huyết áp; (G46*) Hội chứng mạch máu não trong bệnh mạch não (I60-"
+        },
+        {
+            "bbox": [
+                58,
+                184,
+                590,
+                207
+            ],
+            "pred": "diagnose",
+            "text": "I67+); (E78) Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                280,
+                430,
+                303
+            ],
+            "pred": "drugname",
+            "text": "1) HANGITOR PLUS 40mg+12,5mg"
+        },
+        {
+            "bbox": [
+                76,
+                331,
+                230,
+                355
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                357,
+                626,
+                382
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                383,
+                329,
+                408
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        },
+        {
+            "bbox": [
+                76,
+                434,
+                317,
+                458
+            ],
+            "pred": "drugname",
+            "text": "3) ATORIS 20MG 20mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                280,
+                737,
+                299
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                332,
+                737,
+                352
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                435,
+                737,
+                454
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                304,
+                190,
+                328
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                308,
+                407,
+                328
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                405,
+                190,
+                431
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                408,
+                637,
+                426
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                410,
+                407,
+                430
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                458,
+                182,
+                481
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                656,
+                460,
+                731,
+                479
+            ],
+            "pred": "usage",
+            "text": "Tối 1 Viên"
+        }
+    ]
+}

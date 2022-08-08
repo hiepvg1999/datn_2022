@@ -1,0 +1,122 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                30,
+                32,
+                223,
+                45
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Bệnh Parkinson - (G20)"
+        },
+        {
+            "bbox": [
+                32,
+                50,
+                210,
+                68
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Parkinson"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                546,
+                97,
+                734,
+                115
+            ],
+            "pred": "usage",
+            "text": "Uống Sáng Chiều 2 lần/1 ngày mỗi"
+        },
+        {
+            "bbox": [
+                543,
+                115,
+                602,
+                128
+            ],
+            "pred": "usage",
+            "text": "lần 1 Viên"
+        },
+        {
+            "bbox": [
+                546,
+                133,
+                734,
+                151
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                545,
+                149,
+                594,
+                163
+            ],
+            "pred": "usage",
+            "text": "TỐI 19H"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                65,
+                100,
+                404,
+                116
+            ],
+            "pred": "drugname",
+            "text": "Trihexyphenidyl (Trihex 2mg(Trihexyphenidyl) ) 2mg"
+        },
+        {
+            "bbox": [
+                65,
+                135,
+                415,
+                152
+            ],
+            "pred": "drugname",
+            "text": "Pramipexole (Sifrol ER 0,75mg (Pramipexole)) 0,75mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                515,
+                100,
+                530,
+                111
+            ],
+            "pred": "quantity",
+            "text": "60"
+        },
+        {
+            "bbox": [
+                514,
+                136,
+                530,
+                148
+            ],
+            "pred": "quantity",
+            "text": "30"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                512,
+                244,
+                734,
+                262
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

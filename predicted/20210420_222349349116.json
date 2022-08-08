@@ -1,0 +1,142 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                156,
+                735,
+                178
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (G46*) Hội chứng mạch máu não trong bệnh"
+        },
+        {
+            "bbox": [
+                58,
+                178,
+                198,
+                193
+            ],
+            "pred": "diagnose",
+            "text": "mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                268,
+                248,
+                294
+            ],
+            "pred": "drugname",
+            "text": "1) BLOZA 50mg"
+        },
+        {
+            "bbox": [
+                76,
+                321,
+                342,
+                347
+            ],
+            "pred": "drugname",
+            "text": "2) DASOLTAC 400 400mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                271,
+                737,
+                290
+            ],
+            "pred": "quantity",
+            "text": "SL:58 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                317,
+                733,
+                349
+            ],
+            "pred": "quantity",
+            "text": "SL: 20 Ống"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                295,
+                192,
+                321
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                298,
+                635,
+                315
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                299,
+                407,
+                319
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                543,
+                346,
+                634,
+                372
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Ống"
+        },
+        {
+            "bbox": [
+                142,
+                348,
+                191,
+                372
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                350,
+                434,
+                370
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Ống 8ml"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                465,
+                652,
+                484
+            ],
+            "pred": "date",
+            "text": "Ngày 18/07/2019"
+        }
+    ]
+}

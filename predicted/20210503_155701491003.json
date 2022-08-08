@@ -1,0 +1,222 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                185,
+                767,
+                205
+            ],
+            "pred": "diagnose",
+            "text": "(High density lipoprotein Cholesterol) [Máu), Định lượng Triglycerid (máu) [Máu), Tổng phân tích nước"
+        },
+        {
+            "bbox": [
+                58,
+                202,
+                345,
+                226
+            ],
+            "pred": "diagnose",
+            "text": "tiểu (Bằng máy tự động); Điện tim thường"
+        },
+        {
+            "bbox": [
+                58,
+                222,
+                745,
+                243
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Bệnh lý tăng huyết áp; (G46*) Hội chứng mạch máu não trong bệnh mạch não (I60-)"
+        },
+        {
+            "bbox": [
+                58,
+                241,
+                749,
+                263
+            ],
+            "pred": "diagnose",
+            "text": "I67+); (E11) Bệnh đái tháo đường không phụ thuộc insuline; (E78) Rối loạn chuyển hóa lipoprotein và"
+        },
+        {
+            "bbox": [
+                58,
+                262,
+                429,
+                282
+            ],
+            "pred": "diagnose",
+            "text": "tình trạng tăng lipid máu khác; (R07.3) Đau ngực khác"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                73,
+                335,
+                397,
+                358
+            ],
+            "pred": "drugname",
+            "text": "1) SAVILOSARTAN 100 100mg"
+        },
+        {
+            "bbox": [
+                76,
+                388,
+                230,
+                413
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                415,
+                626,
+                438
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                441,
+                329,
+                465
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        },
+        {
+            "bbox": [
+                76,
+                490,
+                318,
+                516
+            ],
+            "pred": "drugname",
+            "text": "3) ATORIS 20MG 20mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                626,
+                337,
+                737,
+                358
+            ],
+            "pred": "quantity",
+            "text": "SL: 44 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                389,
+                737,
+                410
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                491,
+                737,
+                512
+            ],
+            "pred": "quantity",
+            "text": "SL:34 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                360,
+                192,
+                387
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                366,
+                406,
+                385
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                462,
+                192,
+                490
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                544,
+                465,
+                635,
+                482
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                468,
+                404,
+                486
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                514,
+                190,
+                540
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                655,
+                517,
+                732,
+                535
+            ],
+            "pred": "usage",
+            "text": "Tối 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                514,
+                633,
+                650,
+                653
+            ],
+            "pred": "date",
+            "text": "Ngày 01/04/2021"
+        }
+    ]
+}

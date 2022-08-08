@@ -1,0 +1,162 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                27,
+                36,
+                218,
+                49
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Bệnh Parkinson - (G20)"
+        },
+        {
+            "bbox": [
+                27,
+                54,
+                206,
+                70
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Parkinson"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                507,
+                100,
+                534,
+                118
+            ],
+            "pred": "quantity",
+            "text": "120"
+        },
+        {
+            "bbox": [
+                510,
+                140,
+                526,
+                152
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                505,
+                175,
+                531,
+                189
+            ],
+            "pred": "quantity",
+            "text": "120"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                540,
+                101,
+                731,
+                118
+            ],
+            "pred": "usage",
+            "text": "Uống 4 lần/1 ngày mỗi lần 1 Viên,"
+        },
+        {
+            "bbox": [
+                540,
+                117,
+                615,
+                133
+            ],
+            "pred": "usage",
+            "text": "XA BỮA ĂN"
+        },
+        {
+            "bbox": [
+                542,
+                137,
+                730,
+                155
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên,"
+        },
+        {
+            "bbox": [
+                541,
+                154,
+                578,
+                167
+            ],
+            "pred": "usage",
+            "text": "SÁNG"
+        },
+        {
+            "bbox": [
+                537,
+                173,
+                730,
+                191
+            ],
+            "pred": "usage",
+            "text": "Uống 2 lần/1 ngày mỗi lần 2 Viên,"
+        },
+        {
+            "bbox": [
+                541,
+                190,
+                689,
+                202
+            ],
+            "pred": "usage",
+            "text": "CHIA SÁNG 8H- TỐI 20H"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                62,
+                104,
+                411,
+                121
+            ],
+            "pred": "drugname",
+            "text": "Levodopa+ Carbidopa(SYNDOPA 275mg) 250mg + 25mg"
+        },
+        {
+            "bbox": [
+                63,
+                141,
+                401,
+                157
+            ],
+            "pred": "drugname",
+            "text": "Trihexyphenidyl (Trihex 2mg(Trihexyphenidyl)) 2 mg"
+        },
+        {
+            "bbox": [
+                62,
+                175,
+                393,
+                195
+            ],
+            "pred": "drugname",
+            "text": "Pramipexole (Sifstad 0,18mg (Pramipexole) ) 0,25mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                508,
+                286,
+                731,
+                300
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

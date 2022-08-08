@@ -1,0 +1,132 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                57,
+                159,
+                306,
+                181
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: M15 - thoái hóa đa khớp"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                113,
+                301,
+                618,
+                325
+            ],
+            "pred": "drugname",
+            "text": "1g+1g+1g+1g+0,5g+0,4g+0,5g+0,5g+0,5g+0,5g+0,4g"
+        },
+        {
+            "bbox": [
+                77,
+                348,
+                304,
+                375
+            ],
+            "pred": "drugname",
+            "text": "2) PANACTOL 500mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                324,
+                185,
+                350
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                656,
+                325,
+                724,
+                345
+            ],
+            "pred": "usage",
+            "text": "Tối 1 Gói"
+        },
+        {
+            "bbox": [
+                320,
+                327,
+                399,
+                349
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Gói"
+        },
+        {
+            "bbox": [
+                544,
+                328,
+                629,
+                345
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Gói"
+        },
+        {
+            "bbox": [
+                139,
+                375,
+                189,
+                402
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                656,
+                378,
+                731,
+                396
+            ],
+            "pred": "usage",
+            "text": "Tối 2 Viên"
+        },
+        {
+            "bbox": [
+                322,
+                381,
+                409,
+                400
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                626,
+                352,
+                737,
+                372
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                494,
+                652,
+                514
+            ],
+            "pred": "date",
+            "text": "Ngày 22/12/2020"
+        }
+    ]
+}

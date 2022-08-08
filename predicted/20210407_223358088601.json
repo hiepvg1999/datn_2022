@@ -1,0 +1,102 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                92,
+                232,
+                1124,
+                271
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Bệnh lý tăng huyết áp ĐỘ 2, (G46*) Hội chứng mạch máu"
+        },
+        {
+            "bbox": [
+                87,
+                273,
+                578,
+                315
+            ],
+            "pred": "diagnose",
+            "text": "não trong bệnh mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                87,
+                362,
+                491,
+                401
+            ],
+            "pred": "drugname",
+            "text": "1) Enalapril (Enalapril) 5mg"
+        },
+        {
+            "bbox": [
+                85,
+                489,
+                943,
+                530
+            ],
+            "pred": "drugname",
+            "text": "2 ) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                430,
+                601,
+                469
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                558,
+                785,
+                597
+            ],
+            "pred": "usage",
+            "text": "Uống - SÁNG 2 viên CHIỀU 2 viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                434,
+                248,
+                463
+            ],
+            "pred": "quantity",
+            "text": "SL:10 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                562,
+                240,
+                591
+            ],
+            "pred": "quantity",
+            "text": "SL:40 viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                698,
+                671,
+                1077,
+                706
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

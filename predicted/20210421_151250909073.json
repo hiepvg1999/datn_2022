@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                160,
+                746,
+                182
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Bệnh lý tăng huyết áp; (G46*) Hội chứng mạch máu não trong bệnh mạch não (I60-"
+        },
+        {
+            "bbox": [
+                58,
+                183,
+                98,
+                201
+            ],
+            "pred": "diagnose",
+            "text": "I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                276,
+                315,
+                299
+            ],
+            "pred": "drugname",
+            "text": "1) AQUIRIL MM 55mg"
+        },
+        {
+            "bbox": [
+                76,
+                327,
+                277,
+                352
+            ],
+            "pred": "drugname",
+            "text": "2) AMLIBON 10mg"
+        },
+        {
+            "bbox": [
+                76,
+                375,
+                449,
+                403
+            ],
+            "pred": "drugname",
+            "text": "3) TUẦN HOÀN NÃO THÁI DƯƠNG"
+        },
+        {
+            "bbox": [
+                115,
+                407,
+                303,
+                430
+            ],
+            "pred": "drugname",
+            "text": "1,32g+0,33g+0,083g"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                276,
+                737,
+                295
+            ],
+            "pred": "quantity",
+            "text": "SL:35 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                328,
+                737,
+                348
+            ],
+            "pred": "quantity",
+            "text": "SL:35 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                381,
+                737,
+                400
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                299,
+                191,
+                325
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                304,
+                407,
+                324
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                353,
+                190,
+                376
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                356,
+                407,
+                376
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                428,
+                190,
+                453
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                430,
+                637,
+                449
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                432,
+                407,
+                452
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                546,
+                649,
+                565
+            ],
+            "pred": "date",
+            "text": "Ngày 25/01/2021"
+        }
+    ]
+}

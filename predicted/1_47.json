@@ -1,0 +1,162 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                6,
+                65,
+                280,
+                81
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh tim thiếu máu cục bộ mạn"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                520,
+                111,
+                701,
+                129
+            ],
+            "pred": "usage",
+            "text": "uống 1 lần/1 ngày mỗi lần 1 viên"
+        },
+        {
+            "bbox": [
+                519,
+                129,
+                574,
+                147
+            ],
+            "pred": "usage",
+            "text": "uống sáng"
+        },
+        {
+            "bbox": [
+                521,
+                147,
+                707,
+                165
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                519,
+                164,
+                575,
+                184
+            ],
+            "pred": "usage",
+            "text": "uống sáng"
+        },
+        {
+            "bbox": [
+                520,
+                186,
+                701,
+                204
+            ],
+            "pred": "usage",
+            "text": "uống 1 lần/1 ngày mỗi lần 1 viên"
+        },
+        {
+            "bbox": [
+                520,
+                204,
+                565,
+                219
+            ],
+            "pred": "usage",
+            "text": "uống tối"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                490,
+                114,
+                505,
+                126
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                150,
+                505,
+                161
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                189,
+                505,
+                200
+            ],
+            "pred": "quantity",
+            "text": "10"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                42,
+                115,
+                391,
+                133
+            ],
+            "pred": "drugname",
+            "text": "Amlodipin + Valsartan (Exforge 5mg/80mg) 5mg + 80mg"
+        },
+        {
+            "bbox": [
+                41,
+                151,
+                400,
+                168
+            ],
+            "pred": "drugname",
+            "text": "Cao toàn phần không xà phòng hóa quả bơ, ( Piascledin 300mg)"
+        },
+        {
+            "bbox": [
+                42,
+                168,
+                130,
+                183
+            ],
+            "pred": "drugname",
+            "text": "100mg + 200mg"
+        },
+        {
+            "bbox": [
+                41,
+                191,
+                333,
+                209
+            ],
+            "pred": "drugname",
+            "text": "Galantamin(Reminyl 8mg(Galantamin)) 8mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                488,
+                299,
+                709,
+                314
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

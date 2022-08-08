@@ -1,0 +1,15 @@
+{
+    "pills": [
+        {
+            "usage": "Chiều 1 Sáng 1",
+            "name": "1.Panactol 500mg",
+            "quantity": "10 Viên "
+        },
+        {
+            "usage": "Chiều 2 Sán",
+            "name": "2.Hoat Huyet Duong Nao",
+            "quantity": "20 Viên "
+        }
+    ],
+    "diagnose": " H81 - Rối loạn chức năng tiền đình"
+}

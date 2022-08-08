@@ -1,0 +1,142 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                185,
+                734,
+                207
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: 110 - Tăng huyết áp vô căn (nguyên phát); (G46?) Hội chứng mạch máu nào trong bệnh"
+        },
+        {
+            "bbox": [
+                58,
+                207,
+                199,
+                225
+            ],
+            "pred": "diagnose",
+            "text": "mạch não (160-167f)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                300,
+                286,
+                324
+            ],
+            "pred": "drugname",
+            "text": "1) ENALAPRIL 5mg"
+        },
+        {
+            "bbox": [
+                76,
+                351,
+                342,
+                377
+            ],
+            "pred": "drugname",
+            "text": "2) DASOLTAC 400 400mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                626,
+                301,
+                737,
+                320
+            ],
+            "pred": "quantity",
+            "text": "SL:60 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                347,
+                734,
+                378
+            ],
+            "pred": "quantity",
+            "text": "SL: 20 Ống"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                325,
+                191,
+                351
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                327,
+                636,
+                346
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                329,
+                407,
+                349
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                377,
+                191,
+                402
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                377,
+                634,
+                401
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Ống"
+        },
+        {
+            "bbox": [
+                320,
+                380,
+                433,
+                401
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Ống 8ml"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                514,
+                492,
+                652,
+                514
+            ],
+            "pred": "date",
+            "text": "Ngày 16/09/2019"
+        }
+    ]
+}

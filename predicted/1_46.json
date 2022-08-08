@@ -1,0 +1,162 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                25,
+                23,
+                217,
+                36
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Bệnh Parkinson - (G20)"
+        },
+        {
+            "bbox": [
+                25,
+                41,
+                205,
+                59
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Parkinson"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                540,
+                87,
+                731,
+                106
+            ],
+            "pred": "usage",
+            "text": "uống 6 lần/1 ngày mỗi lần 1/2 viên"
+        },
+        {
+            "bbox": [
+                539,
+                107,
+                576,
+                119
+            ],
+            "pred": "usage",
+            "text": "sau ăn"
+        },
+        {
+            "bbox": [
+                539,
+                125,
+                721,
+                141
+            ],
+            "pred": "usage",
+            "text": "uống 1 lần/1 ngày mỗi lần 1 viên"
+        },
+        {
+            "bbox": [
+                539,
+                141,
+                584,
+                156
+            ],
+            "pred": "usage",
+            "text": "uống tối"
+        },
+        {
+            "bbox": [
+                539,
+                161,
+                721,
+                177
+            ],
+            "pred": "usage",
+            "text": "uống 2 lần/1 ngày mỗi lần 1 viên"
+        },
+        {
+            "bbox": [
+                540,
+                179,
+                576,
+                191
+            ],
+            "pred": "usage",
+            "text": "sau ăn"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                60,
+                90,
+                411,
+                110
+            ],
+            "pred": "drugname",
+            "text": "Levodopa+ Carbidopa( SYNDOPA 775mg)) 250mg +25mg"
+        },
+        {
+            "bbox": [
+                61,
+                126,
+                305,
+                145
+            ],
+            "pred": "drugname",
+            "text": "Amitriptylin (Amitriptylin 25mg ) 25mg"
+        },
+        {
+            "bbox": [
+                61,
+                162,
+                283,
+                181
+            ],
+            "pred": "drugname",
+            "text": "Pramipexole (Sifrol 0,25mg) 0,25mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                509,
+                91,
+                525,
+                103
+            ],
+            "pred": "quantity",
+            "text": "90"
+        },
+        {
+            "bbox": [
+                509,
+                126,
+                525,
+                139
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                509,
+                162,
+                525,
+                174
+            ],
+            "pred": "quantity",
+            "text": "60"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                507,
+                271,
+                730,
+                289
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

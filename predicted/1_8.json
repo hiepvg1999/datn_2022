@@ -1,0 +1,122 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                6,
+                51,
+                190,
+                70
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Alzheimer"
+        },
+        {
+            "bbox": [
+                9,
+                202,
+                336,
+                222
+            ],
+            "pred": "diagnose",
+            "text": "Khám lại sau 0 ngày Khám lại xin mang theođơnn"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                521,
+                97,
+                724,
+                117
+            ],
+            "pred": "usage",
+            "text": "Uong 1 lần/1 ngày mỗi lần 1 Viên toi"
+        },
+        {
+            "bbox": [
+                521,
+                120,
+                707,
+                140
+            ],
+            "pred": "usage",
+            "text": "Uong 2 lần/1 ngày mỗi lần 1 Viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                489,
+                101,
+                505,
+                112
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                490,
+                124,
+                505,
+                135
+            ],
+            "pred": "quantity",
+            "text": "60"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                41,
+                102,
+                331,
+                118
+            ],
+            "pred": "drugname",
+            "text": "Galantamin(Reminyl 8mg(Galantamin) 8mg"
+        },
+        {
+            "bbox": [
+                41,
+                126,
+                426,
+                141
+            ],
+            "pred": "drugname",
+            "text": "Cam thảo, bạch mao căn, bạch thược, đan sâm (Pharnanca ) 20mg"
+        },
+        {
+            "bbox": [
+                41,
+                142,
+                392,
+                157
+            ],
+            "pred": "drugname",
+            "text": "400mg + 400mg + 400mg + 300mg + 300mg + 400mg + 300mg +"
+        },
+        {
+            "bbox": [
+                41,
+                158,
+                230,
+                173
+            ],
+            "pred": "drugname",
+            "text": "300mg + 400mg + 300mg + 400mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                486,
+                252,
+                709,
+                268
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

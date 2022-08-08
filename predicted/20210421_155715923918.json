@@ -1,0 +1,282 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                165,
+                547,
+                186
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: K29 - Viêm dạ dày và tá tràng ; (N20) Sỏi thận và niệu quản"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                277,
+                377,
+                303
+            ],
+            "pred": "drugname",
+            "text": "1) PRAVERIX 500 MG 500mg"
+        },
+        {
+            "bbox": [
+                76,
+                332,
+                351,
+                355
+            ],
+            "pred": "drugname",
+            "text": "2) AVARINO 60mg+300mg"
+        },
+        {
+            "bbox": [
+                76,
+                381,
+                405,
+                408
+            ],
+            "pred": "drugname",
+            "text": "33 METRONIDAZOL 250 250 mg"
+        },
+        {
+            "bbox": [
+                77,
+                434,
+                337,
+                460
+            ],
+            "pred": "drugname",
+            "text": "4) MEZAGASTRO 150mg"
+        },
+        {
+            "bbox": [
+                76,
+                482,
+                372,
+                510
+            ],
+            "pred": "drugname",
+            "text": "5) BÀI THẠCH VINAPLANT"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                279,
+                737,
+                298
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                332,
+                737,
+                351
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                383,
+                737,
+                403
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                436,
+                737,
+                456
+            ],
+            "pred": "quantity",
+            "text": "SL: 44 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                488,
+                737,
+                507
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                303,
+                190,
+                327
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                306,
+                407,
+                327
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        },
+        {
+            "bbox": [
+                544,
+                306,
+                637,
+                324
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                355,
+                190,
+                380
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                357,
+                637,
+                376
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                360,
+                405,
+                377
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                407,
+                190,
+                432
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                409,
+                637,
+                427
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                412,
+                407,
+                431
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                459,
+                191,
+                485
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                543,
+                461,
+                636,
+                480
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                463,
+                405,
+                481
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                510,
+                191,
+                536
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                514,
+                637,
+                532
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                515,
+                407,
+                534
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                628,
+                652,
+                649
+            ],
+            "pred": "date",
+            "text": "Ngày 11/09/2020"
+        }
+    ]
+}

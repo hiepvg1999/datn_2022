@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                171,
+                734,
+                195
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát) ; (I49) Loạn nhịp tim khác: (G46*) Hội chứng"
+        },
+        {
+            "bbox": [
+                58,
+                193,
+                376,
+                211
+            ],
+            "pred": "diagnose",
+            "text": "mạch máu não trong bệnh mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                286,
+                323,
+                309
+            ],
+            "pred": "drugname",
+            "text": "1) RENAPRIL 5MG 5mg"
+        },
+        {
+            "bbox": [
+                76,
+                340,
+                304,
+                364
+            ],
+            "pred": "drugname",
+            "text": "2 ) NITROMINT 2,6mg"
+        },
+        {
+            "bbox": [
+                77,
+                391,
+                231,
+                413
+            ],
+            "pred": "drugname",
+            "text": "3) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                417,
+                624,
+                442
+            ],
+            "pred": "drugname",
+            "text": "280mg,685mg,375mg,280mg,375mg,375mg,685mg,280"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                626,
+                288,
+                737,
+                307
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                340,
+                737,
+                360
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                393,
+                737,
+                412
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                320,
+                316,
+                406,
+                336
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                131,
+                317,
+                185,
+                336
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                142,
+                364,
+                190,
+                388
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                368,
+                406,
+                388
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                439,
+                190,
+                465
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                443,
+                635,
+                459
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                445,
+                407,
+                464
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                516,
+                558,
+                652,
+                578
+            ],
+            "pred": "date",
+            "text": "Ngày 27/03/2019"
+        }
+    ]
+}

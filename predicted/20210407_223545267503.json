@@ -1,0 +1,172 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                88,
+                219,
+                1144,
+                262
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: N30 - Viêm bàng quang; (E11)td Bệnh đái tháo đường không phụ"
+        },
+        {
+            "bbox": [
+                86,
+                261,
+                1075,
+                296
+            ],
+            "pred": "diagnose",
+            "text": "thuộc insuline; (R07.2) Đau trước tim; (K76) Bệnh gan khác, (G46*) Hội"
+        },
+        {
+            "bbox": [
+                88,
+                300,
+                1138,
+                334
+            ],
+            "pred": "diagnose",
+            "text": "chứng mạch máu não trong bệnh mạch não (160-1677); (N20) Sỏi thận và niệu"
+        },
+        {
+            "bbox": [
+                85,
+                336,
+                158,
+                375
+            ],
+            "pred": "diagnose",
+            "text": "quản"
+        },
+        {
+            "bbox": [
+                132,
+                587,
+                990,
+                631
+            ],
+            "pred": "diagnose",
+            "text": "bạch mao căn, mộc hương, đại hoàng (Kim tiền thảo bài thạch)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                88,
+                425,
+                559,
+                465
+            ],
+            "pred": "drugname",
+            "text": "11 Cefalexin (Firstlexin 500) 0,5g"
+        },
+        {
+            "bbox": [
+                134,
+                630,
+                1140,
+                667
+            ],
+            "pred": "drugname",
+            "text": "1000mg+250mg+150mg+250mg+100mg+100mg+100mg+500mg+100mg100mg"
+        },
+        {
+            "bbox": [
+                130,
+                664,
+                235,
+                707
+            ],
+            "pred": "drugname",
+            "text": "+50mg"
+        },
+        {
+            "bbox": [
+                86,
+                823,
+                415,
+                863
+            ],
+            "pred": "drugname",
+            "text": "3.) Actisô (Liongsv) 5g"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                332,
+                492,
+                798,
+                533
+            ],
+            "pred": "usage",
+            "text": "Uống 2 VÁNG 2 VIÊN CHIỀU 2 Viên"
+        },
+        {
+            "bbox": [
+                332,
+                763,
+                948,
+                802
+            ],
+            "pred": "usage",
+            "text": "Uống 3 Sáng 3 Viên Chiều 3 Viên Tối 3 Viên"
+        },
+        {
+            "bbox": [
+                332,
+                892,
+                786,
+                929
+            ],
+            "pred": "usage",
+            "text": "Uống - SÁNG 1 VIÊN CHIỀU 1 Viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                94,
+                496,
+                248,
+                525
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                94,
+                767,
+                248,
+                796
+            ],
+            "pred": "quantity",
+            "text": "SL:99 Viên"
+        },
+        {
+            "bbox": [
+                94,
+                896,
+                240,
+                925
+            ],
+            "pred": "quantity",
+            "text": "SL:20 viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                696,
+                1003,
+                1075,
+                1038
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

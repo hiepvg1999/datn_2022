@@ -1,0 +1,192 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                148,
+                730,
+                170
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (G45) Cơn thiếu máu nào thoáng qua và hội"
+        },
+        {
+            "bbox": [
+                58,
+                168,
+                339,
+                191
+            ],
+            "pred": "diagnose",
+            "text": "chứng liên quan; (I20) Cơn đau thắt ngực"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                262,
+                230,
+                287
+            ],
+            "pred": "drugname",
+            "text": "11) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                289,
+                626,
+                314
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                314,
+                329,
+                341
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        },
+        {
+            "bbox": [
+                76,
+                366,
+                390,
+                391
+            ],
+            "pred": "drugname",
+            "text": "22 EBITAC 12.5 10mg + 12,5mg"
+        },
+        {
+            "bbox": [
+                76,
+                417,
+                303,
+                443
+            ],
+            "pred": "drugname",
+            "text": "3) PECRANDIL 5 5mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                264,
+                737,
+                284
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                366,
+                737,
+                386
+            ],
+            "pred": "quantity",
+            "text": "SL:32 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                418,
+                737,
+                439
+            ],
+            "pred": "quantity",
+            "text": "SL:32 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                338,
+                191,
+                365
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                341,
+                406,
+                362
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                544,
+                341,
+                635,
+                357
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                390,
+                183,
+                414
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                320,
+                395,
+                407,
+                414
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                441,
+                191,
+                468
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                447,
+                407,
+                466
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                559,
+                652,
+                580
+            ],
+            "pred": "date",
+            "text": "Ngày 13/02/2020"
+        }
+    ]
+}

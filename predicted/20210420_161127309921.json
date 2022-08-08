@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                153,
+                733,
+                174
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát) : (G46*) Hội chứng mạch máu não trong bệnh"
+        },
+        {
+            "bbox": [
+                58,
+                173,
+                649,
+                193
+            ],
+            "pred": "diagnose",
+            "text": "mạch năo (I60-I67+); (I20) Cơn đau thắt ngực; (I25) Bệnh tim do thiếu máu cục bộ mạn"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                76,
+                267,
+                399,
+                292
+            ],
+            "pred": "drugname",
+            "text": "1) SAVILLSSARTAN 100 100mg"
+        },
+        {
+            "bbox": [
+                75,
+                319,
+                303,
+                345
+            ],
+            "pred": "drugname",
+            "text": "2) PECRANDIL 5 5mg"
+        },
+        {
+            "bbox": [
+                74,
+                367,
+                448,
+                395
+            ],
+            "pred": "drugname",
+            "text": "3) TUẦN HOÀN NÃO THÁI DƯƠNG"
+        },
+        {
+            "bbox": [
+                113,
+                397,
+                302,
+                422
+            ],
+            "pred": "drugname",
+            "text": "1,32g+0,33g+0,083g"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                268,
+                736,
+                288
+            ],
+            "pred": "quantity",
+            "text": "SL:32 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                320,
+                736,
+                341
+            ],
+            "pred": "quantity",
+            "text": "SL:32 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                373,
+                736,
+                392
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                140,
+                292,
+                190,
+                317
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                319,
+                297,
+                405,
+                316
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                140,
+                344,
+                189,
+                368
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                319,
+                348,
+                405,
+                368
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                422,
+                190,
+                444
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                542,
+                422,
+                635,
+                441
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                319,
+                425,
+                405,
+                444
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                514,
+                538,
+                651,
+                558
+            ],
+            "pred": "date",
+            "text": "Ngày 19/11/2020"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                88,
+                248,
+                1102,
+                291
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: M13.0 - Viêm đa khớp không đặc hiệu ; (E11) td Bệnh đái tháo"
+        },
+        {
+            "bbox": [
+                88,
+                289,
+                1113,
+                329
+            ],
+            "pred": "diagnose",
+            "text": "đường không phụ thuộc insuline; (E75) td Rối loạn chuyển hóa sphingolipid"
+        },
+        {
+            "bbox": [
+                88,
+                327,
+                991,
+                369
+            ],
+            "pred": "diagnose",
+            "text": "và rối loạn tích luỹ lipid; (R07.2) Đau trước tim; ; (N20.0) Sỏi thận"
+        },
+        {
+            "bbox": [
+                132,
+                453,
+                991,
+                495
+            ],
+            "pred": "diagnose",
+            "text": "bạch mao căn, mộc hương, đại hoàng (Kim tiền thảo bài thạch)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                136,
+                494,
+                1142,
+                533
+            ],
+            "pred": "drugname",
+            "text": "1000mg+250mg+150mg+250mg+100mg+100mg+100mg+500mg+100mg"
+        },
+        {
+            "bbox": [
+                130,
+                528,
+                235,
+                573
+            ],
+            "pred": "drugname",
+            "text": "+50mg"
+        },
+        {
+            "bbox": [
+                86,
+                691,
+                536,
+                727
+            ],
+            "pred": "drugname",
+            "text": "2.) Loxoprofen (Mezafen) 60mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                332,
+                626,
+                800,
+                667
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 3 Viên CHIỀU 3 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                757,
+                799,
+                793
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 1 Viên CHIỀU 1 Viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                632,
+                247,
+                659
+            ],
+            "pred": "quantity",
+            "text": "SL: 60 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                759,
+                247,
+                787
+            ],
+            "pred": "quantity",
+            "text": "SL:10 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                697,
+                868,
+                1077,
+                902
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

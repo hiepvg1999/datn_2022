@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                57,
+                181,
+                749,
+                202
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: M19 - Thoái hoá khớp khác ; (G46*) Hội chứng mạch máu não trong bệnh mạch não (I60-"
+        },
+        {
+            "bbox": [
+                57,
+                202,
+                97,
+                219
+            ],
+            "pred": "diagnose",
+            "text": "I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                296,
+                248,
+                317
+            ],
+            "pred": "drugname",
+            "text": "11) PHONG DAN"
+        },
+        {
+            "bbox": [
+                112,
+                321,
+                628,
+                344
+            ],
+            "pred": "drugname",
+            "text": "500mg;500mg;500mg;400mg;400mg;300mg;300mg;300"
+        },
+        {
+            "bbox": [
+                112,
+                347,
+                478,
+                371
+            ],
+            "pred": "drugname",
+            "text": "mg;300mg;300mg;300mg;200mg;40mg"
+        },
+        {
+            "bbox": [
+                73,
+                398,
+                226,
+                419
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                112,
+                423,
+                625,
+                448
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                449,
+                328,
+                473
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                296,
+                736,
+                315
+            ],
+            "pred": "quantity",
+            "text": "SL:28 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                398,
+                736,
+                417
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                140,
+                370,
+                190,
+                395
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                655,
+                371,
+                731,
+                390
+            ],
+            "pred": "usage",
+            "text": "Tối 2 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                374,
+                404,
+                391
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        },
+        {
+            "bbox": [
+                140,
+                470,
+                189,
+                496
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                654,
+                472,
+                730,
+                494
+            ],
+            "pred": "usage",
+            "text": "Tối 2 Viên"
+        },
+        {
+            "bbox": [
+                322,
+                478,
+                407,
+                497
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                514,
+                589,
+                651,
+                608
+            ],
+            "pred": "date",
+            "text": "Ngày 28/02/2020"
+        }
+    ]
+}

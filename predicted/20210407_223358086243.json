@@ -1,0 +1,102 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                90,
+                228,
+                1089,
+                268
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: 110 - Bệnh lý tăng huyết áp ĐỘ 2  ;(E78) Rối loạn chuyển hóa"
+        },
+        {
+            "bbox": [
+                87,
+                271,
+                690,
+                306
+            ],
+            "pred": "diagnose",
+            "text": "lipoprotein và tình trạng tăng lipid máu khác"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                87,
+                355,
+                527,
+                396
+            ],
+            "pred": "drugname",
+            "text": "1) Losartan (Lanzaar 50) 50mg"
+        },
+        {
+            "bbox": [
+                85,
+                485,
+                595,
+                522
+            ],
+            "pred": "drugname",
+            "text": "2.) Atorvastatin (Atoris 10mg) 10mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                422,
+                799,
+                464
+            ],
+            "pred": "usage",
+            "text": "Uống SÁNG 1 Viên CHIỀU 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                550,
+                592,
+                593
+            ],
+            "pred": "usage",
+            "text": "Uống TỐI 1 Viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                426,
+                248,
+                456
+            ],
+            "pred": "quantity",
+            "text": "SL: 60 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                555,
+                248,
+                584
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                696,
+                663,
+                1077,
+                698
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

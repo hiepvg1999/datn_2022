@@ -1,0 +1,162 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                156,
+                735,
+                177
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Tăng huyết áp vô căn (nguyên phát) ; (G46*) Hội chứng mạch máu nảo trong bệnh"
+        },
+        {
+            "bbox": [
+                58,
+                178,
+                198,
+                193
+            ],
+            "pred": "diagnose",
+            "text": "mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                270,
+                504,
+                295
+            ],
+            "pred": "drugname",
+            "text": "1) NIFEDIPIN T20 STADA RETARD 20mg"
+        },
+        {
+            "bbox": [
+                76,
+                322,
+                230,
+                346
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                348,
+                626,
+                373
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                374,
+                329,
+                399
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                271,
+                737,
+                290
+            ],
+            "pred": "quantity",
+            "text": "SL:60 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                324,
+                737,
+                343
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                295,
+                190,
+                319
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                543,
+                297,
+                636,
+                316
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                299,
+                407,
+                319
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                396,
+                183,
+                421
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                543,
+                399,
+                636,
+                418
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                401,
+                405,
+                419
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                515,
+                652,
+                534
+            ],
+            "pred": "date",
+            "text": "Ngày 11/11/2019"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                89,
+                254,
+                1121,
+                293
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Bệnh lý tăng huyết áp ĐỘ 2 ; (G46*) Hội chứng mạch máu"
+        },
+        {
+            "bbox": [
+                90,
+                297,
+                1093,
+                332
+            ],
+            "pred": "diagnose",
+            "text": "não trong bệnh mạch não (I60-I67+) ; (K21) Bệnh trào ngược dạ dày - thực"
+        },
+        {
+            "bbox": [
+                84,
+                331,
+                159,
+                373
+            ],
+            "pred": "diagnose",
+            "text": "quản"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                87,
+                421,
+                603,
+                460
+            ],
+            "pred": "drugname",
+            "text": "1 ) Bisoprolol (SaviProlol 2,5) 2,5mg"
+        },
+        {
+            "bbox": [
+                85,
+                546,
+                943,
+                587
+            ],
+            "pred": "drugname",
+            "text": "2 ) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg"
+        },
+        {
+            "bbox": [
+                87,
+                677,
+                642,
+                716
+            ],
+            "pred": "drugname",
+            "text": "3 ) Pantoprazol (Tavomac DR 40) 40mg"
+        },
+        {
+            "bbox": [
+                90,
+                800,
+                1033,
+                844
+            ],
+            "pred": "drugname",
+            "text": "4 ) Attapulgit mormoiron hoạt hóa + hỗn hợp magnesi carbonat-nhôm"
+        },
+        {
+            "bbox": [
+                131,
+                846,
+                617,
+                881
+            ],
+            "pred": "drugname",
+            "text": "hydroxyd (Gastrolium) 2,5g + 0,5g"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                489,
+                799,
+                525
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 1 Viên CHIỀU 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                617,
+                785,
+                653
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 2 Viên CHIỀU 2 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                745,
+                799,
+                784
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 1 Viên CHIỀU 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                900,
+                772,
+                941
+            ],
+            "pred": "usage",
+            "text": "Uống: SÁNG 1 Gói CHIỀU 1 Gói"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                492,
+                248,
+                522
+            ],
+            "pred": "quantity",
+            "text": "SL: 60 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                621,
+                240,
+                650
+            ],
+            "pred": "quantity",
+            "text": "SL:40 viên"
+        },
+        {
+            "bbox": [
+                93,
+                749,
+                248,
+                778
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                906,
+                234,
+                933
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Gói"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                698,
+                1013,
+                1077,
+                1047
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

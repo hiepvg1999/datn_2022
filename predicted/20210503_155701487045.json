@@ -1,0 +1,182 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                165,
+                762,
+                187
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Bệnh lý tăng huyết áp ; (I25) Bệnh tim thiếu máu cục bộ mạn; (G46*) Hội chứng mạch"
+        },
+        {
+            "bbox": [
+                58,
+                188,
+                335,
+                206
+            ],
+            "pred": "diagnose",
+            "text": "máu não trong bệnh mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                272,
+                449,
+                303
+            ],
+            "pred": "drugname",
+            "text": "1) TUẦN HOÀN NÃO THÁI DƯƠNG"
+        },
+        {
+            "bbox": [
+                115,
+                307,
+                303,
+                330
+            ],
+            "pred": "drugname",
+            "text": "1,32g+0,33g+0,083g"
+        },
+        {
+            "bbox": [
+                76,
+                356,
+                400,
+                382
+            ],
+            "pred": "drugname",
+            "text": "2 ) SAVILOSARTAN 100 100mg"
+        },
+        {
+            "bbox": [
+                77,
+                408,
+                439,
+                434
+            ],
+            "pred": "drugname",
+            "text": "3 ) SAVI TRIMETAZIDINE 20 20mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                281,
+                737,
+                301
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                357,
+                737,
+                377
+            ],
+            "pred": "quantity",
+            "text": "SL:34 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                409,
+                737,
+                430
+            ],
+            "pred": "quantity",
+            "text": "SL: 44 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                329,
+                183,
+                353
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                544,
+                332,
+                637,
+                350
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                334,
+                405,
+                352
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                381,
+                190,
+                406
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                386,
+                407,
+                405
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                432,
+                191,
+                459
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                438,
+                407,
+                457
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                551,
+                652,
+                571
+            ],
+            "pred": "date",
+            "text": "Ngày 01/12/2020"
+        }
+    ]
+}

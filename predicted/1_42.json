@@ -1,0 +1,82 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                23,
+                26,
+                215,
+                41
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Bệnh Alzheimer (G30)"
+        },
+        {
+            "bbox": [
+                23,
+                45,
+                207,
+                61
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Alzheimer"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                538,
+                93,
+                724,
+                109
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                538,
+                109,
+                614,
+                122
+            ],
+            "pred": "usage",
+            "text": "UỐNG SÁNG"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                58,
+                94,
+                349,
+                114
+            ],
+            "pred": "drugname",
+            "text": "Galantamin(Reminyl 8mg(Galantamin) ) 8mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                505,
+                95,
+                522,
+                106
+            ],
+            "pred": "quantity",
+            "text": "30"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                504,
+                206,
+                727,
+                220
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

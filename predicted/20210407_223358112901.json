@@ -1,0 +1,122 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                86,
+                224,
+                1101,
+                266
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: M13.0 - Viêm đa khớp không đặc hiệu ; (E11)td Bệnh đái tháo"
+        },
+        {
+            "bbox": [
+                88,
+                262,
+                1112,
+                303
+            ],
+            "pred": "diagnose",
+            "text": "đường không phụ thuộc insuline; (E75) td Rối loạn chuyển hóa sphingolipid"
+        },
+        {
+            "bbox": [
+                88,
+                303,
+                1139,
+                346
+            ],
+            "pred": "diagnose",
+            "text": "và rối loạn tích luỹ lipid; (R07.2) Đau trước tim; (R10.4) Đau bụng không xác"
+        },
+        {
+            "bbox": [
+                86,
+                339,
+                886,
+                379
+            ],
+            "pred": "diagnose",
+            "text": "định và đau bụng khác; (H81) Rối loạn chức năng tiền đình"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                89,
+                431,
+                538,
+                470
+            ],
+            "pred": "drugname",
+            "text": "1) Loxoprofen (Mezafen) 60mg"
+        },
+        {
+            "bbox": [
+                84,
+                553,
+                942,
+                598
+            ],
+            "pred": "drugname",
+            "text": "2 ) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                498,
+                800,
+                537
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 1 Viên CHIỀU 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                625,
+                786,
+                666
+            ],
+            "pred": "usage",
+            "text": "Uống SÁNG 3 viên CHIỀU 3 viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                94,
+                501,
+                247,
+                531
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        },
+        {
+            "bbox": [
+                94,
+                629,
+                241,
+                656
+            ],
+            "pred": "quantity",
+            "text": "SL:30 viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                696,
+                738,
+                1076,
+                773
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

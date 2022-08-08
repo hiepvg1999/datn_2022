@@ -1,0 +1,15 @@
+{
+    "pills": [
+        {
+            "usage": "Sáng 1 Viên",
+            "name": "1. Enalapril 5mg",
+            "quantity": "30 Viên "
+        },
+        {
+            "usage": "Chiều 1 Viên Sáng 1 V",
+            "name": "2.Panactol 500mg",
+            "quantity": "10 Viên "
+        }
+    ],
+    "diagnose": "I10 - Tăng huyết áp vô căn (nguyên phát); (R51) Đau đầu"
+}

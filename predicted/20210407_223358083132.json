@@ -1,0 +1,172 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                89,
+                244,
+                1135,
+                287
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: I10 - Bệnh lý tăng huyết áp ĐỘ 2 ; (K21) Bệnh trào ngược dạ dày"
+        },
+        {
+            "bbox": [
+                106,
+                291,
+                244,
+                324
+            ],
+            "pred": "diagnose",
+            "text": "thực quản"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                87,
+                373,
+                603,
+                413
+            ],
+            "pred": "drugname",
+            "text": "1) Bisoprolol (SaviProlol 2,5) 2,5mg"
+        },
+        {
+            "bbox": [
+                85,
+                498,
+                943,
+                539
+            ],
+            "pred": "drugname",
+            "text": "2 ) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg"
+        },
+        {
+            "bbox": [
+                87,
+                630,
+                642,
+                669
+            ],
+            "pred": "drugname",
+            "text": "3.) Pantoprazol (Tavomac DR 40) 40mg"
+        },
+        {
+            "bbox": [
+                87,
+                753,
+                1030,
+                797
+            ],
+            "pred": "drugname",
+            "text": "4 ) Attapulgit mormoiron hoạt hóa + hỗn hợp magnesi carbonat-nhôm"
+        },
+        {
+            "bbox": [
+                131,
+                799,
+                617,
+                834
+            ],
+            "pred": "drugname",
+            "text": "hydroxyd (Gastrolium) 2,5g + 0,5g"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                442,
+                599,
+                479
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                570,
+                785,
+                607
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 2 viên CHIỀU 2 viên"
+        },
+        {
+            "bbox": [
+                331,
+                698,
+                601,
+                735
+            ],
+            "pred": "usage",
+            "text": "Uống SÁNG 1 Viên"
+        },
+        {
+            "bbox": [
+                331,
+                855,
+                772,
+                892
+            ],
+            "pred": "usage",
+            "text": "Uống - SÁNG 1 Gói CHIỀU 1 Gói"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                446,
+                248,
+                475
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                574,
+                240,
+                603
+            ],
+            "pred": "quantity",
+            "text": "SL:40 viên"
+        },
+        {
+            "bbox": [
+                93,
+                702,
+                248,
+                731
+            ],
+            "pred": "quantity",
+            "text": "SL:10 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                859,
+                234,
+                886
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Gói"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                698,
+                966,
+                1077,
+                1001
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

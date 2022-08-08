@@ -1,0 +1,112 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                78,
+                167,
+                226,
+                192
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán bệnh:"
+        },
+        {
+            "bbox": [
+                279,
+                168,
+                588,
+                197
+            ],
+            "pred": "diagnose",
+            "text": "Cao huyết áp vô căn (nguyên phát)"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                714,
+                169,
+                844,
+                192
+            ],
+            "pred": "quantity",
+            "text": "Mã ICD: I10"
+        },
+        {
+            "bbox": [
+                446,
+                266,
+                470,
+                284
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                445,
+                311,
+                469,
+                329
+            ],
+            "pred": "quantity",
+            "text": "20"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                498,
+                262,
+                759,
+                290
+            ],
+            "pred": "usage",
+            "text": "ngày: uống 1 viên: sáng 1"
+        },
+        {
+            "bbox": [
+                497,
+                303,
+                810,
+                336
+            ],
+            "pred": "usage",
+            "text": "ngày: uống 2 viên: sáng 1 tối 1"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                92,
+                263,
+                310,
+                289
+            ],
+            "pred": "drugname",
+            "text": "1) Coveram 5mg/5mg - 719"
+        },
+        {
+            "bbox": [
+                89,
+                307,
+                351,
+                334
+            ],
+            "pred": "drugname",
+            "text": "Cosyndo B (B1+B6+B12) - 7"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                617,
+                369,
+                859,
+                393
+            ],
+            "pred": "date",
+            "text": "Ngày 27 tháng 10 năm 2020"
+        }
+    ]
+}

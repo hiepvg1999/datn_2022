@@ -1,0 +1,112 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                6,
+                51,
+                284,
+                68
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Bệnh Alzheimer- LOẠN THẦN"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                521,
+                98,
+                709,
+                116
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                519,
+                114,
+                570,
+                130
+            ],
+            "pred": "usage",
+            "text": "TỐI 20H"
+        },
+        {
+            "bbox": [
+                521,
+                135,
+                708,
+                151
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                150,
+                608,
+                164
+            ],
+            "pred": "usage",
+            "text": "SÁNG SAU ĂN"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                489,
+                101,
+                505,
+                113
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                490,
+                136,
+                505,
+                149
+            ],
+            "pred": "quantity",
+            "text": "10"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                41,
+                102,
+                370,
+                120
+            ],
+            "pred": "drugname",
+            "text": "Quetiapine (Seroquel XR 50mg (Quetiapine)) 50mg"
+        },
+        {
+            "bbox": [
+                41,
+                138,
+                313,
+                155
+            ],
+            "pred": "drugname",
+            "text": "Donepezil (Hania 10mg (Dnepezil)) 10mg"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                488,
+                246,
+                709,
+                261
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

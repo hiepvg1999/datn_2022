@@ -1,0 +1,192 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                160,
+                746,
+                182
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Bệnh lý tăng huyết áp; (G46*) Hội chứng mạch máu não trong bệnh mạch nào (I60-"
+        },
+        {
+            "bbox": [
+                58,
+                183,
+                98,
+                201
+            ],
+            "pred": "diagnose",
+            "text": "I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                276,
+                400,
+                299
+            ],
+            "pred": "drugname",
+            "text": "1) SAVI LOSARTAN 100 100mg"
+        },
+        {
+            "bbox": [
+                77,
+                329,
+                317,
+                353
+            ],
+            "pred": "drugname",
+            "text": "2) AQUIRIL MM55mg"
+        },
+        {
+            "bbox": [
+                75,
+                378,
+                230,
+                403
+            ],
+            "pred": "drugname",
+            "text": "3) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                405,
+                626,
+                430
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                431,
+                329,
+                457
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                276,
+                737,
+                295
+            ],
+            "pred": "quantity",
+            "text": "SL:34 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                328,
+                737,
+                348
+            ],
+            "pred": "quantity",
+            "text": "SL:34 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                381,
+                737,
+                400
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                299,
+                190,
+                325
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                321,
+                305,
+                408,
+                325
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                354,
+                264,
+                378
+            ],
+            "pred": "usage",
+            "text": "Uống sau khi ăn:"
+        },
+        {
+            "bbox": [
+                320,
+                356,
+                407,
+                376
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                454,
+                190,
+                478
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                456,
+                407,
+                476
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                544,
+                457,
+                635,
+                474
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                572,
+                650,
+                592
+            ],
+            "pred": "date",
+            "text": "Ngày 01/04/2021"
+        }
+    ]
+}

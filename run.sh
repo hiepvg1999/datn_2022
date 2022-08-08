@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python train.py --train-folder sroie_dataset/processed/train_data/ --val-folder sroie_dataset/processed/train_data/ --log-dir logs/runs_sroie/CE_loss/ --epochs 50 --lr 0.0005 --save-folder logs/saved_sroie/

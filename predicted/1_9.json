@@ -1,0 +1,242 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                5,
+                31,
+                686,
+                48
+            ],
+            "pred": "diagnose",
+            "text": "Mã bênh: Suy tin, Bệnh đái tháo đường không phụ thuộc insuline, Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu"
+        },
+        {
+            "bbox": [
+                6,
+                83,
+                377,
+                101
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: Suy Tim, THA, ĐTD type 2, Gút mạn, THK gối"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                521,
+                128,
+                708,
+                149
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                148,
+                536,
+                159
+            ],
+            "pred": "usage",
+            "text": "8h"
+        },
+        {
+            "bbox": [
+                521,
+                166,
+                707,
+                182
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                182,
+                575,
+                196
+            ],
+            "pred": "usage",
+            "text": "Sau ăn tối"
+        },
+        {
+            "bbox": [
+                521,
+                209,
+                707,
+                225
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                225,
+                539,
+                237
+            ],
+            "pred": "usage",
+            "text": "Tối"
+        },
+        {
+            "bbox": [
+                521,
+                244,
+                707,
+                260
+            ],
+            "pred": "usage",
+            "text": "Uống 1 lần/1 ngày mỗi lần 1 Viên"
+        },
+        {
+            "bbox": [
+                520,
+                261,
+                582,
+                274
+            ],
+            "pred": "usage",
+            "text": "Sau ăn trưa"
+        },
+        {
+            "bbox": [
+                98,
+                303,
+                360,
+                319
+            ],
+            "pred": "usage",
+            "text": "ngày chia 2 lần sau ăn, sáng 1 viên - chiều 1 viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                489,
+                132,
+                505,
+                144
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                168,
+                505,
+                180
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                210,
+                505,
+                221
+            ],
+            "pred": "quantity",
+            "text": "30"
+        },
+        {
+            "bbox": [
+                489,
+                245,
+                505,
+                258
+            ],
+            "pred": "quantity",
+            "text": "20"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                42,
+                134,
+                391,
+                150
+            ],
+            "pred": "drugname",
+            "text": "Amlodipin + Valsartan (Exforge 5mg/80mg) 5mg + 80mg"
+        },
+        {
+            "bbox": [
+                41,
+                168,
+                359,
+                187
+            ],
+            "pred": "drugname",
+            "text": "Sitagliptin + Metformin (JANUMET 50mg/1000mg"
+        },
+        {
+            "bbox": [
+                41,
+                188,
+                296,
+                206
+            ],
+            "pred": "drugname",
+            "text": "(Sitagliptin+Metformin)) 50mg 1000mg"
+        },
+        {
+            "bbox": [
+                41,
+                212,
+                372,
+                229
+            ],
+            "pred": "drugname",
+            "text": "Allopurinol (Sadapron 100mg (Allopurinol)) 100mg"
+        },
+        {
+            "bbox": [
+                41,
+                246,
+                400,
+                265
+            ],
+            "pred": "drugname",
+            "text": "Cao toàn phần không xà phòng hóa quả bơ ( Piascledin 300mg)"
+        },
+        {
+            "bbox": [
+                41,
+                265,
+                129,
+                279
+            ],
+            "pred": "drugname",
+            "text": "100mg + 200mg"
+        },
+        {
+            "bbox": [
+                5,
+                285,
+                701,
+                303
+            ],
+            "pred": "drugname",
+            "text": "Lời dặn BS: Tự túc: Hydrocortisol 10mgx 30 viên, Uống 1 viên/ ngày, 8h sau ăn. 2,Neurocard Plus x 60 viên, Uống 2 viên /"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                488,
+                375,
+                709,
+                390
+            ],
+            "pred": "date",
+            "text": "Tp Hà Nội, Ngày 22 Tháng 01 Năm 2021"
+        }
+    ]
+}

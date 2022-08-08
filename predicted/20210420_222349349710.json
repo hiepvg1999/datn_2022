@@ -1,0 +1,132 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                162,
+                735,
+                186
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (G46*) Hội chứng mạch máu não trong bệnh"
+        },
+        {
+            "bbox": [
+                57,
+                184,
+                200,
+                204
+            ],
+            "pred": "diagnose",
+            "text": "mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                279,
+                248,
+                302
+            ],
+            "pred": "drugname",
+            "text": "1) BLOZA 50mg"
+        },
+        {
+            "bbox": [
+                76,
+                329,
+                426,
+                355
+            ],
+            "pred": "drugname",
+            "text": "2) CETAMPIR PLUS 400mg +25mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                279,
+                737,
+                298
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                625,
+                332,
+                737,
+                351
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                302,
+                191,
+                328
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                307,
+                407,
+                326
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                142,
+                354,
+                184,
+                379
+            ],
+            "pred": "usage",
+            "text": "Uống"
+        },
+        {
+            "bbox": [
+                544,
+                357,
+                637,
+                376
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                358,
+                407,
+                379
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                471,
+                652,
+                492
+            ],
+            "pred": "date",
+            "text": "Ngày 17/06/2019"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pills": [
+        {
+            "usage": "Chiều 2 Viên Sáng 2 Viên",
+            "name": "1. Novoxim 500mg",
+            "quantity": "20 Viên "
+        },
+        {
+            "usage": "Chiều 1 Viên Sáng 1 Viên",
+            "name": "2.Panactol 500mg",
+            "quantity": "10 Viên "
+        },
+        {
+            "usage": "Sáng 1 V",
+            "name": "3. Enalapril 5mg",
+            "quantity": "30 Viên "
+        }
+    ],
+    "diagnose": " I10 - Tăng huyết áp vô căn (nguyên phát); (J02) Viêm họng cấp"
+}

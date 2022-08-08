@@ -1,0 +1,172 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                57,
+                194,
+                230,
+                218
+            ],
+            "pred": "diagnose",
+            "text": "tiểu (Bằng máy tự động);"
+        },
+        {
+            "bbox": [
+                58,
+                214,
+                759,
+                236
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Tăng huyết áp vô căn (nguyên phát); (E11) TD Bệnh đái tháo đường không phụ thuộc"
+        },
+        {
+            "bbox": [
+                58,
+                233,
+                750,
+                255
+            ],
+            "pred": "diagnose",
+            "text": "insulin; (E78) Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (G45) Cơn thiếu máu"
+        },
+        {
+            "bbox": [
+                58,
+                254,
+                320,
+                272
+            ],
+            "pred": "diagnose",
+            "text": "não thoáng qua và hội chứng liên quan"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                328,
+                400,
+                354
+            ],
+            "pred": "drugname",
+            "text": "1) SAVILLSSARTAN 100 100mg"
+        },
+        {
+            "bbox": [
+                76,
+                380,
+                230,
+                404
+            ],
+            "pred": "drugname",
+            "text": "2) CERECAPS"
+        },
+        {
+            "bbox": [
+                113,
+                407,
+                626,
+                431
+            ],
+            "pred": "drugname",
+            "text": "280mg+685mg+375mg+280mg+375mg+375mg+685mg"
+        },
+        {
+            "bbox": [
+                113,
+                432,
+                329,
+                457
+            ],
+            "pred": "drugname",
+            "text": "+280mg+375mg+15mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                329,
+                737,
+                350
+            ],
+            "pred": "quantity",
+            "text": "SL:30 Viên"
+        },
+        {
+            "bbox": [
+                626,
+                381,
+                737,
+                401
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                141,
+                352,
+                190,
+                378
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                320,
+                357,
+                407,
+                377
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        },
+        {
+            "bbox": [
+                141,
+                454,
+                191,
+                481
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                544,
+                457,
+                637,
+                476
+            ],
+            "pred": "usage",
+            "text": "Chiều 1 Viên"
+        },
+        {
+            "bbox": [
+                320,
+                460,
+                407,
+                479
+            ],
+            "pred": "usage",
+            "text": "Sáng 1 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                573,
+                652,
+                593
+            ],
+            "pred": "date",
+            "text": "Ngày 13/07/2020"
+        }
+    ]
+}

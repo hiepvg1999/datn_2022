@@ -1,0 +1,102 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                90,
+                236,
+                1130,
+                277
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: I10 - Bệnh lý tăng huyết áp ĐỘ 2 ; (G46*) Hội chứng mạch máu"
+        },
+        {
+            "bbox": [
+                87,
+                281,
+                578,
+                318
+            ],
+            "pred": "diagnose",
+            "text": "não trong bệnh mạch não (I60-I67+)"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                87,
+                366,
+                527,
+                405
+            ],
+            "pred": "drugname",
+            "text": "1) Losartan (Lanzaar 50) 50mg"
+        },
+        {
+            "bbox": [
+                85,
+                490,
+                943,
+                533
+            ],
+            "pred": "drugname",
+            "text": "2 ) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                331,
+                434,
+                799,
+                471
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 1 Viên CHIỀU 1 Viên"
+        },
+        {
+            "bbox": [
+                332,
+                562,
+                786,
+                599
+            ],
+            "pred": "usage",
+            "text": "Uống : SÁNG 2 viên CHIỀU 2 viên"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                93,
+                438,
+                248,
+                467
+            ],
+            "pred": "quantity",
+            "text": "SL: 60 Viên"
+        },
+        {
+            "bbox": [
+                93,
+                566,
+                240,
+                595
+            ],
+            "pred": "quantity",
+            "text": "SL:40 viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                696,
+                675,
+                1077,
+                710
+            ],
+            "pred": "date",
+            "text": "Ngày 06 tháng 04 năm 2021"
+        }
+    ]
+}

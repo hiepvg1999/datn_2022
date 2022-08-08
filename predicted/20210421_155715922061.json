@@ -1,0 +1,92 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                45,
+                160,
+                296,
+                181
+            ],
+            "pred": "diagnose",
+            "text": "Chẩn đoán: J20 - Viêm phế quản cấp"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                64,
+                274,
+                249,
+                300
+            ],
+            "pred": "drugname",
+            "text": "1) XITORAN 0,5g"
+        },
+        {
+            "bbox": [
+                63,
+                326,
+                306,
+                352
+            ],
+            "pred": "drugname",
+            "text": "22 MYPARA 500 500mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                613,
+                275,
+                724,
+                296
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        },
+        {
+            "bbox": [
+                613,
+                328,
+                724,
+                348
+            ],
+            "pred": "quantity",
+            "text": "SL: 10 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                128,
+                300,
+                178,
+                325
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        },
+        {
+            "bbox": [
+                128,
+                350,
+                179,
+                378
+            ],
+            "pred": "usage",
+            "text": "Uống:"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                501,
+                468,
+                639,
+                488
+            ],
+            "pred": "date",
+            "text": "Ngày 08/10/2019"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "diagnose": [
+        {
+            "bbox": [
+                58,
+                156,
+                665,
+                177
+            ],
+            "pred": "diagnose",
+            "text": "Cận lâm sàng: Định lượng Glucose [Máu], Tổng phân tích nước tiểu (Bằng máy tự động);"
+        },
+        {
+            "bbox": [
+                58,
+                173,
+                765,
+                197
+            ],
+            "pred": "diagnose",
+            "text": "Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác ; (E11) TD Bệnh đái"
+        },
+        {
+            "bbox": [
+                58,
+                196,
+                608,
+                217
+            ],
+            "pred": "diagnose",
+            "text": "tháo đường không phụ thuộc insulin; (N34) Viêm niệu đạo và hội chứng niệu đạo"
+        }
+    ],
+    "drugname": [
+        {
+            "bbox": [
+                77,
+                287,
+                405,
+                311
+            ],
+            "pred": "drugname",
+            "text": "1) METRONIDAZOL 250 250mg"
+        }
+    ],
+    "quantity": [
+        {
+            "bbox": [
+                625,
+                290,
+                737,
+                310
+            ],
+            "pred": "quantity",
+            "text": "SL:20 Viên"
+        }
+    ],
+    "usage": [
+        {
+            "bbox": [
+                142,
+                315,
+                264,
+                341
+            ],
+            "pred": "usage",
+            "text": "Uống sau khi ăn:"
+        },
+        {
+            "bbox": [
+                544,
+                316,
+                637,
+                335
+            ],
+            "pred": "usage",
+            "text": "Chiều 2 Viên"
+        },
+        {
+            "bbox": [
+                321,
+                320,
+                408,
+                339
+            ],
+            "pred": "usage",
+            "text": "Sáng 2 Viên"
+        }
+    ],
+    "date": [
+        {
+            "bbox": [
+                515,
+                430,
+                652,
+                451
+            ],
+            "pred": "date",
+            "text": "Ngày 30/12/2019"
+        }
+    ]
+}
